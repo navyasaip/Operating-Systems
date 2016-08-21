@@ -1,0 +1,22 @@
+
+Steps to Execute:
+
+
+1. Open Eclipse.
+
+2. Create a new Java Project in Eclipse. 
+
+3. Import the "Student Testing" files to the project.
+
+4. Right click on the existing project -> go to properties -> Java Build Path -> Libraries.
+
+5. Click on "Add external Jars" and select the "project3.jar" file.
+
+6. Run the server from the command line using "java -jar project3.jar" .
+
+7. Now right click on "DataStoreClientTestCase.java" -> Run As -> JUnit Test.
+
+8. The output of test result in present in JUnit Test.
+
+
+Note: The source files are present in "persistentDataStoreStudent" directory.
