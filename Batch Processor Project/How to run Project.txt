@@ -1,0 +1,23 @@
+How to run the project:
+
+A 'work' folder and a '.jar' file are present in 'OSProject' directory.
+
+
+Procedure to RUN the project: (in Windows)
+
+1. Open command prompt and go to OSProject directory.
+2. Run the command 
+	java -jar osproject.jar work\batch1.xml
+   Output: 'dirout.txt' file is created in work directory.
+3. Run the command
+	java -jar osproject.jar work\batch2.xml
+   Output: 'reversesort.txt' and 'sortedwords.txt' are created in work directory.
+4. Run the command
+	java -jar osproject.jar work\batch3.xml
+   Output: 'sumout.txt' and 'avgout.txt'
+5. Run the command
+	java -jar osproject.jar work\batch4.xml
+   Output: 'avgout1.txt'
+6. Run the command
+	java -jar osproject.jar work\batch5.xml
+   Output: Error message is generated

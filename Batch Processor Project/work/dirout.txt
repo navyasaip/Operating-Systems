@@ -1,0 +1,26 @@
+ Volume in drive C is Windows
+ Volume Serial Number is D885-94BA
+
+ Directory of C:\Users\NavyaSai\Desktop\OSProject\work
+
+29-09-2015  14:01    <DIR>          .
+29-09-2015  14:01    <DIR>          ..
+29-09-2015  10:53             8,916 addLines.jar
+29-09-2015  10:53            10,273 avgFile.jar
+29-09-2015  10:53               147 batch1.dos.xml
+29-09-2015  10:53               151 batch1.gnu.xml
+29-09-2015  10:53               131 batch1.unix.xml
+29-09-2015  10:53               147 batch1.xml
+29-09-2015  10:53               303 batch2.dos.xml
+29-09-2015  10:53               343 batch2.gnu.xml
+29-09-2015  10:53               303 batch2.unix.xml
+29-09-2015  10:40               303 batch2.xml
+29-09-2015  10:53               341 batch3.xml
+29-09-2015  10:53               318 batch4.xml
+29-09-2015  10:53               342 batch5.broken.xml
+29-09-2015  10:53                88 cleanup.bat
+29-09-2015  14:01                 0 dirout.txt
+29-09-2015  10:53               704 numberdata.txt
+29-09-2015  10:53             1,128 randomwords.txt
+              17 File(s)         23,938 bytes
+               2 Dir(s)  173,500,612,608 bytes free
